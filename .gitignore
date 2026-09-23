@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# SQLite databases generated at runtime
+*.db
+*.sqlite3
+
 # C extensions
 *.so
 
